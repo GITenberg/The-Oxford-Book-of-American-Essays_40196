@@ -1,0 +1,237 @@
+_repo: The-Oxford-Book-of-American-Essays_40196
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: King, Clarence
+    alias: Todd, James
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '40474'
+    url: http://www.gutenberg.org/2009/agents/40474
+  - agent_name: Brownell, W. C. (William Crary)
+    alias: Brownell, William Crary
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '7247'
+    url: http://www.gutenberg.org/2009/agents/7247
+  - agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+  - agent_name: Lowell, James Russell
+    aliases:
+    - Meliboeus-Hipponax
+    - Wilbur, Homer
+    birthdate: &id006 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: http://en.wikipedia.org/wiki/James_Russell_Lowell
+  - agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+  - agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: &id007 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+  - agent_name: Winthrop, Theodore
+    birthdate: 1828
+    deathdate: 1861
+    gutenberg_agent_id: '40473'
+    url: http://www.gutenberg.org/2009/agents/40473
+  - agent_name: James, Henry
+    birthdate: 1843
+    deathdate: &id002 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+  - agent_name: Holmes, Oliver Wendell
+    birthdate: &id001 1809
+    deathdate: 1894
+    gutenberg_agent_id: '387'
+    url: http://www.gutenberg.org/2009/agents/387
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
+  - agent_name: Higginson, Thomas Wentworth
+    alias: Higginson, T. W. (Thomas Wentworth)
+    birthdate: 1823
+    deathdate: 1911
+    gutenberg_agent_id: '503'
+    url: http://www.gutenberg.org/2009/agents/503
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Wentworth_Higginson
+  - agent_name: Crothers, Samuel McChord
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '6347'
+    url: http://www.gutenberg.org/2009/agents/6347
+  - agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, Waldo
+    birthdate: 1803
+    deathdate: &id003 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+  - agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: *id001
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+  - agent_name: Mabie, Hamilton Wright
+    alias: Mabie, Hamilton W. (Hamilton Wright)
+    birthdate: 1846
+    deathdate: *id002
+    gutenberg_agent_id: '1421'
+    url: http://www.gutenberg.org/2009/agents/1421
+    wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
+  - agent_name: Franklin, Benjamin
+    birthdate: 1706
+    deathdate: 1790
+    gutenberg_agent_id: '92'
+    url: http://www.gutenberg.org/2009/agents/92
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Franklin
+  - agent_name: Dana, Richard Henry
+    alias: Dana, R. H. (Richard Henry)
+    birthdate: 1815
+    deathdate: *id003
+    gutenberg_agent_id: '803'
+    url: http://www.gutenberg.org/2009/agents/803
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Dana,_Jr.
+  - agent_name: Martin, Edward Sandford
+    aliases:
+    - Martin, Edward Sanford
+    - Martin, E. S. (Edward Sandford)
+    birthdate: 1856
+    deathdate: &id005 1939
+    gutenberg_agent_id: '39037'
+    url: http://www.gutenberg.org/2009/agents/39037
+  - agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+  - agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: &id004 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+  - agent_name: Trent, William P. (William Peterfield)
+    aliases:
+    - Trent, W. P. (William Peterfield)
+    - Trent, Wm. P. (William Peterfield)
+    - Trent, William Peterfield
+    birthdate: *id004
+    deathdate: *id005
+    gutenberg_agent_id: '40476'
+    url: http://www.gutenberg.org/2009/agents/40476
+  - agent_name: Whitman, Walt
+    alias: Whitman, Walter
+    birthdate: *id006
+    deathdate: &id008 1892
+    gutenberg_agent_id: '600'
+    url: http://www.gutenberg.org/2009/agents/600
+    wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
+  - agent_name: Burroughs, John
+    birthdate: *id007
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+  - agent_name: Curtis, George William
+    birthdate: 1824
+    deathdate: *id008
+    gutenberg_agent_id: '2048'
+    url: http://www.gutenberg.org/2009/agents/2048
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Curtis
+  - agent_name: Lodge, Henry Cabot
+    birthdate: 1850
+    deathdate: 1924
+    gutenberg_agent_id: '728'
+    url: http://www.gutenberg.org/2009/agents/728
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cabot_Lodge
+  - agent_name: Butler, Nicholas Murray
+    birthdate: *id004
+    deathdate: 1947
+    gutenberg_agent_id: '40475'
+    url: http://www.gutenberg.org/2009/agents/40475
+  - agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+  - agent_name: Eliot, Charles William
+    birthdate: 1834
+    deathdate: 1926
+    gutenberg_agent_id: '6399'
+    url: http://www.gutenberg.org/2009/agents/6399
+    wikipedia: http://en.wikipedia.org/wiki/Charles_William_Eliot
+covers:
+- cover_type: archival
+  image_path: 40196-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Matthews, Brander
+    aliases:
+    - Penn, Arthur
+    - Matthews, James Brander
+    - Matthews, J. Brander (James Brander)
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+description: ''
+gutenberg_issued: '2012-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American essays'
+tableOfContents: 'Introduction -- The ephemera: an emblem of human life / Benjamin
+  Franklin -- The whistle / Benjamin Franklin -- Dialogue between Franklin and the
+  gout / Benjamin Franklin -- Consolation for the old bachelor / Francis Hopkinson
+  -- John Bull / Washington Irving -- The mutability of literature / Washington Irving
+  -- Kean''s acting / Richard Henry Dana -- Gifts / Ralph Waldo Emerson -- Uses of
+  great men / Ralph Waldo Emerson -- Buds and bird-voices / Nathaniel Hawthorne --
+  The philosophy of composition / Edgar Allan Poe -- Bread and the newspaper / Oliver
+  Wendell Holmes -- Walking / Henry David Thoreau -- On a certain condescension in
+  foreigners / James Russell Lowell -- Preface to "Leaves of Grass" / Walt Whitman
+  -- Americanism in literature / Thomas Wentworth Higginson -- Thackeray in America
+  / George William Curtis -- Our march to Washington / Theodore Winthrop -- Calvin
+  / Charles Dudley Warner -- Five American contributions to civilization / Charles
+  William Eliot -- I talk of dreams / William Dean Howells -- An idyl of the honey-bee
+  / John Burroughs -- Cut-off Copples''s / Clarence King -- The Théâtre Français /
+  Henry James -- Theocritus on Cape Cod / Hamilton Wright Mabie -- Colonialism in
+  the United States / Henry Cabot Lodge -- New York after Paris / William Crary Brownell
+  -- The tyranny of things / Edward Sandford Martin -- Free trade vs. protection in
+  literature / Samuel McChord Crothers -- Dante and the Bowery / Theodore Roosevelt
+  -- The revolt of the unfit / Nicholas Murray Butler -- On translating the odes of
+  Horace / William Peterfield Trent.'
+title: The Oxford Book of American Essays
+url: http://www.gutenberg.org/ebooks/40196
