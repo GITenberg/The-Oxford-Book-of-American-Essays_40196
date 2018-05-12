@@ -24,7 +24,7 @@ contributor:
     aliases:
     - Meliboeus-Hipponax
     - Wilbur, Homer
-    birthdate: &id006 1819
+    birthdate: 1819
     deathdate: 1891
     gutenberg_agent_id: '456'
     url: http://www.gutenberg.org/2009/agents/456
@@ -40,7 +40,7 @@ contributor:
     aliases:
     - Howells, W. D. (William Dean)
     - Howells, William D. (William Dean)
-    birthdate: &id007 1837
+    birthdate: 1837
     deathdate: 1920
     gutenberg_agent_id: '97'
     url: http://www.gutenberg.org/2009/agents/97
@@ -52,12 +52,12 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/40473
   - agent_name: James, Henry
     birthdate: 1843
-    deathdate: &id002 1916
+    deathdate: 1916
     gutenberg_agent_id: '113'
     url: http://www.gutenberg.org/2009/agents/113
     wikipedia: http://en.wikipedia.org/wiki/Henry_James
   - agent_name: Holmes, Oliver Wendell
-    birthdate: &id001 1809
+    birthdate: 1809
     deathdate: 1894
     gutenberg_agent_id: '387'
     url: http://www.gutenberg.org/2009/agents/387
@@ -80,13 +80,13 @@ contributor:
     - Emerson, R. W. (Ralph Waldo)
     - Emerson, Waldo
     birthdate: 1803
-    deathdate: &id003 1882
+    deathdate: 1882
     gutenberg_agent_id: '1071'
     url: http://www.gutenberg.org/2009/agents/1071
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
   - agent_name: Poe, Edgar Allan
     alias: Poe, Edgar Allen
-    birthdate: *id001
+    birthdate: 1809
     deathdate: 1849
     gutenberg_agent_id: '481'
     url: http://www.gutenberg.org/2009/agents/481
@@ -94,7 +94,7 @@ contributor:
   - agent_name: Mabie, Hamilton Wright
     alias: Mabie, Hamilton W. (Hamilton Wright)
     birthdate: 1846
-    deathdate: *id002
+    deathdate: 1916
     gutenberg_agent_id: '1421'
     url: http://www.gutenberg.org/2009/agents/1421
     wikipedia: http://en.wikipedia.org/wiki/Hamilton_Wright_Mabie
@@ -107,7 +107,7 @@ contributor:
   - agent_name: Dana, Richard Henry
     alias: Dana, R. H. (Richard Henry)
     birthdate: 1815
-    deathdate: *id003
+    deathdate: 1882
     gutenberg_agent_id: '803'
     url: http://www.gutenberg.org/2009/agents/803
     wikipedia: http://en.wikipedia.org/wiki/Richard_Henry_Dana,_Jr.
@@ -116,7 +116,7 @@ contributor:
     - Martin, Edward Sanford
     - Martin, E. S. (Edward Sandford)
     birthdate: 1856
-    deathdate: &id005 1939
+    deathdate: 1939
     gutenberg_agent_id: '39037'
     url: http://www.gutenberg.org/2009/agents/39037
   - agent_name: Warner, Charles Dudley
@@ -128,7 +128,7 @@ contributor:
   - agent_name: Thoreau, Henry David
     alias: Thoreau, Henry D. (Henry David)
     birthdate: 1817
-    deathdate: &id004 1862
+    deathdate: 1862
     gutenberg_agent_id: '54'
     url: http://www.gutenberg.org/2009/agents/54
     wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
@@ -137,26 +137,26 @@ contributor:
     - Trent, W. P. (William Peterfield)
     - Trent, Wm. P. (William Peterfield)
     - Trent, William Peterfield
-    birthdate: *id004
-    deathdate: *id005
+    birthdate: 1862
+    deathdate: 1939
     gutenberg_agent_id: '40476'
     url: http://www.gutenberg.org/2009/agents/40476
   - agent_name: Whitman, Walt
     alias: Whitman, Walter
-    birthdate: *id006
-    deathdate: &id008 1892
+    birthdate: 1819
+    deathdate: 1892
     gutenberg_agent_id: '600'
     url: http://www.gutenberg.org/2009/agents/600
     wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
   - agent_name: Burroughs, John
-    birthdate: *id007
+    birthdate: 1837
     deathdate: 1921
     gutenberg_agent_id: '1127'
     url: http://www.gutenberg.org/2009/agents/1127
     wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
   - agent_name: Curtis, George William
     birthdate: 1824
-    deathdate: *id008
+    deathdate: 1892
     gutenberg_agent_id: '2048'
     url: http://www.gutenberg.org/2009/agents/2048
     wikipedia: http://en.wikipedia.org/wiki/George_William_Curtis
@@ -167,7 +167,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/728
     wikipedia: http://en.wikipedia.org/wiki/Henry_Cabot_Lodge
   - agent_name: Butler, Nicholas Murray
-    birthdate: *id004
+    birthdate: 1862
     deathdate: 1947
     gutenberg_agent_id: '40475'
     url: http://www.gutenberg.org/2009/agents/40475
@@ -202,6 +202,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1992
     wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40196#The-Oxford-Book-of-American-Essays
 gutenberg_issued: '2012-07-10'
 gutenberg_type: Text
 identifiers:
