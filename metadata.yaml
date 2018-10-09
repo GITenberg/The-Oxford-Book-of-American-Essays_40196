@@ -215,6 +215,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'American essays'
+- GITenberg
 tableOfContents: 'Introduction -- The ephemera: an emblem of human life / Benjamin
   Franklin -- The whistle / Benjamin Franklin -- Dialogue between Franklin and the
   gout / Benjamin Franklin -- Consolation for the old bachelor / Francis Hopkinson
